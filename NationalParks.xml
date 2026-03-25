@@ -27,7 +27,7 @@
         </Address>
     </NationalPark>
     
-    <NationalPark Rating="4.7">
+    <NationalPark>
         <Name>Yellowstone</Name>
         <Phone>307-344-7381</Phone>
         <Address NearestAirport="Jackson">
@@ -39,7 +39,7 @@
         </Address>
     </NationalPark>
     
-    <NationalPark Rating="4.6">
+    <NationalPark>
         <Name>Zion</Name>
         <Phone>435-772-3256</Phone>
         <Phone>800-365-2267</Phone>
@@ -64,7 +64,7 @@
         </Address>
     </NationalPark>
     
-    <NationalPark Rating="4.5">
+    <NationalPark>
         <Name>Rocky Mountain</Name>
         <Phone>970-586-1206</Phone>
         <Address NearestAirport="Denver">
