@@ -27,10 +27,10 @@
         </Address>
     </NationalPark>
     
-    <NationalPark>
+    <NationalPark Rating="4.7">
         <Name>Yellowstone</Name>
         <Phone>307-344-7381</Phone>
-        <Address>
+        <Address NearestAirport="Jackson">
             <Number>1</Number>
             <Street>Old Faithful Road</Street>
             <City>Yellowstone National Park</City>
@@ -39,11 +39,11 @@
         </Address>
     </NationalPark>
     
-    <NationalPark>
+    <NationalPark Rating="4.6">
         <Name>Zion</Name>
         <Phone>435-772-3256</Phone>
         <Phone>800-365-2267</Phone>
-        <Address NearestAirport="Salt Lake City">
+        <Address NearestAirport="Las Vegas">
             <Number>1</Number>
             <Street>Zion Park Blvd</Street>
             <City>Springdale</City>
@@ -64,10 +64,10 @@
         </Address>
     </NationalPark>
     
-    <NationalPark>
+    <NationalPark Rating="4.5">
         <Name>Rocky Mountain</Name>
         <Phone>970-586-1206</Phone>
-        <Address>
+        <Address NearestAirport="Denver">
             <Number>1000</Number>
             <Street>US Highway 36</Street>
             <City>Estes Park</City>
@@ -105,7 +105,7 @@
         <Name>Arches</Name>
         <Phone>435-719-2299</Phone>
         <Phone>435-779-7030</Phone>
-        <Address>
+        <Address NearestAirport="Grand Junction">
             <Number>2282</Number>
             <Street>S Resource Blvd</Street>
             <City>Moab</City>
