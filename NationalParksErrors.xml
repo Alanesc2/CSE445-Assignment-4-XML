@@ -14,7 +14,6 @@
             <Zip>86023</Zip>
         </Address>
     </NationalPark>
-    
     <NationalPark Rating="4.8">
         <Name>Yosemite</Name>
         <Phone>209-372-0200</Phone>
@@ -26,8 +25,7 @@
             <State>CA</State>
             <Zip>95389
         </Address>
-    </NationalPark>
-    
+    </NationalPark>     
     <NationalPark>
         <Name>Yellowstone</Name>
         <Address NearestAirport="Jackson">
@@ -37,8 +35,7 @@
             <State>WY</State>
             <Zip>82190</Zip>
         </Address>
-    </NationalPark>
-    
+    </NationalPark>    
     <NationalPark Rating="4.6">
         <Name>Zion</Name>
         <Phone>435-772-3256</Phone>
@@ -51,7 +48,6 @@
             <Zip>84767</Zip>
         </Address>
     </NationalPark>
-    
     <NationalPark Rating="4.8">
         <Name>Grand Teton</Name>
         <Phone>307-739-3399</Phone>
@@ -62,8 +58,7 @@
             <State>WY</State>
             <Zip>83012</Zip>
         </Address>
-    </NationalPark>
-    
+    </NationalPark>    
     <NationalPark Rating="4.5">
         <Name>Rocky Mountain</Name>
         <Phone>970-586-1206</Phone>
@@ -75,7 +70,6 @@
             <Zip>80517</Zip>
         </Address>
     </NationalPark>
-    
     <NationalPark Rating="4.9">
         <Name>Glacier</Name>
         <Phone>406-888-7800</Phone>
@@ -87,8 +81,7 @@
             <State>MT</State>
             <Zip>59936</Zip>
         </Address>
-    </NationalPark>
-    
+    </NationalPark>    
     <NationalPark Rating="4.4">
         <Name>Great Smoky Mountains</Name>
         <Phone>865-436-1200</Phone>
@@ -99,8 +92,7 @@
             <State>TN</State>
             <Zip>37738</Zip>
         </Address>
-    </NationalPark>
-    
+    </NationalPark>    
     <NationalPark Rating="4.6">
         <Name>Arches</Name>
         <Phone>435-719-2299</Phone>
@@ -113,7 +105,6 @@
             <Zip>84532</Zip>
         </Address>
     </NationalPark>
-    
     <NationalPark Rating="4.7">
         <Name>Bryce Canyon</Name>
         <Phone>435-834-5322</Phone>
@@ -124,8 +115,7 @@
             <State>UT</State>
             <Zip>84764</Zip>
         </Address>
-    </NationalPark>
-    
+    </NationalPark>    
     <NationalPark Rating="4.5">
         <Name>Acadia</Name>
         <Phone>207-288-3338</Phone>
